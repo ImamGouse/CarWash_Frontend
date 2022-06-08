@@ -1,1 +1,0 @@
-# CarWash_Frontend
